@@ -2,7 +2,7 @@
 
 **Datasets & Analyses for All Cars in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_becoming_sunset.png)
+![Real Racing 3](Images/real_racing_3_becoming_sunset(2).png)
 
 Hello everyone! I've been playing this mobile racing game, **Real Racing 3** (developed by **Firemonkey**, then **Slingshot** and published by **Electronic Arts**) for at least 8-9 years. As the game is almost 13 years old, it contains over 500 cars to drive around various tracks (e.g., Silverstone, Laguna Seca, Dubai Autodrome, Red Bull Ring, etc.).
 
@@ -12,7 +12,7 @@ I started this repository project from **game version 8.0**. Here, you can find 
 
 ## THE FINAL LAP
 
-_Real Racing 3 has entered the final lap! The developers have made the difficult decision to sunset the game, which means, unfortunately, it was removed from the iOS App Store and Google Play Store on December 18, 2025 and existing players can continue playing until March 19, 2026. After this date, the servers will be shut down and the game will no longer be accessible to play! In addition, no more in-app purchases are accepted and any remaining in-game currencies can be spent on cars and upgrades to enjoy the last bits of our favorite and dream cars._
+_Real Racing 3 has entered the final lap! The developers have made the difficult decision to sunset the game, which means, unfortunately, it was removed from the iOS App Store and Google Play Store on December 18, 2025 and existing players can continue playing until March 20, 2026. After this date, the servers will be shut down and the game will no longer be accessible to play! In addition, no more in-app purchases are accepted and any remaining in-game currencies can be spent on cars and upgrades to enjoy the last bits of our favorite and dream cars._
 
 _Well, we the players are so disappointed to see this beloved racing game fading away gradually from our handheld devices after 13 years! We've had so many great times to beat the challenges, level up many times, earn the achievements, compete against rivals (Time-shifted multiplayer, online multiplayer, or time trial competitions) and showcase our cars to the others around the world. It was truly a remarkable journey to see the game evolving after all these years, but saying goodbye and coping with the absence of it will not be so easy!_
 
@@ -151,4 +151,4 @@ If the developers continued delivering updates on a regular basis, these were th
 - [ ] Toyota Supra (Latest Gen)
 - [ ] W Motors Lykan Hypersport
 
-## KEEP RACING UNTIL THE LAST DAY!
+## KEEP RACING UNTIL THE SHUTDOWN!
