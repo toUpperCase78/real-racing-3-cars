@@ -16,7 +16,7 @@ _Real Racing 3 has entered the final lap! The developers have made the difficult
 
 _Well, we the players are so disappointed to see this beloved racing game fading away gradually from our handheld devices after 13 years! We've had so many great times to beat the challenges, level up many times, earn the achievements, compete against rivals (Time-shifted multiplayer, online multiplayer, or time trial competitions) and showcase our cars to the others around the world. It was truly a remarkable journey to see the game evolving after all these years, but saying goodbye and coping with the absence of it will not be so easy!_
 
-_THANK YOU FOR EVERYTHING REAL RACING 3, YOU WILL ALWAYS BE REMEMBERED IN OUR HEARTS!_
+_**THANK YOU FOR EVERYTHING REAL RACING 3, YOU WILL ALWAYS BE REMEMBERED IN OUR HEARTS!**_
 
 ## Cars Dataset Version Info
 
@@ -59,15 +59,13 @@ Each row represents the main tab, name of the group, name of the series and indi
 
 ## My Data Analyses
 
-As Real Racing 3 no longer gets new updates, there will be one last data analyses on the cars of the final version (v14.0) to work on. It might take some time to publish here, so stay tuned.
-
-**Currently, the latest performed analyses are presented here (formatted in Jupyter Notebook), based on game version 12.6.**
+As Real Racing 3 no longer gets new updates, one last revision of data analyses on the cars of the final version (v14.0) have been published. However, you can view those analyses by selecting one of these parts below and discover what have been revealed inside!
 
 | Parts | Features |
 | ----- | -------- |
-| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis1_Rev5.ipynb) | Basic & Intermediate Data Analyses |
-| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis2_Rev4.ipynb) | Advanced Data Analyses |
-| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis3_Rev4.ipynb) | Several Data Visualizations |
+| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis1_Rev6.ipynb) | Basic & Intermediate Data Analyses |
+| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis2_Rev5.ipynb) | Advanced Data Analyses |
+| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis3_Rev5.ipynb) | Data Visualizations |
 
 ## My Car Wishlist
 
@@ -75,8 +73,10 @@ If the developers continued delivering updates on a regular basis, these were th
 
 - [ ] Abarth 124 Spider
 - [ ] Abarth 500
+- [ ] Alfa Romeo 33 Stradale
 - [ ] Alfa Romeo Giulia GTAm
-- [ ] Alpine A110 (2017)
+- [ ] Alpine A110 R (2017)
+- [ ] Alpine A290
 - [ ] Aston Martin DB5
 - [ ] Aston Martin DB11
 - [ ] Aston Martin DB12
@@ -95,6 +95,7 @@ If the developers continued delivering updates on a regular basis, these were th
 - [ ] Dallara Stradale
 - [ ] Ferrari 12Cilindri
 - [ ] Ferrari 296 GT3
+- [ ] Ferrari 312 T2
 - [X] ~~Ferrari 296 GTB~~
 - [X] ~~Ferrari 499P~~
 - [ ] Ferrari 812 GTS
@@ -104,6 +105,7 @@ If the developers continued delivering updates on a regular basis, these were th
 - [X] ~~Ferrari Monza SP1~~
 - [ ] Ferrari Roma
 - [X] ~~Ford Focus RS~~
+- [ ] Ford RS200
 - [ ] Ford Sierra RS Cosworth
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
@@ -123,6 +125,7 @@ If the developers continued delivering updates on a regular basis, these were th
 - [ ] Lancia Delta HT Integrale
 - [ ] Lotus Elise
 - [ ] Lotus Evora
+- [ ] Maserati GT2 Stradale
 - [ ] Maserati MC12
 - [ ] Maserati MC20
 - [X] ~~Mazda MX-5 (ND)~~
@@ -144,11 +147,12 @@ If the developers continued delivering updates on a regular basis, these were th
 - [ ] Porsche Mission X
 - [ ] Renault R26
 - [X] ~~Rimac Nevera~~
+- [ ] Saleen S1
 - [ ] Saleen S7
 - [ ] Subaru BRZ
-- [ ] Subaru Impreza WRX STI (2nd-5th Gen.)
+- [ ] Subaru Impreza WRX STI (Newer Gen.)
 - [ ] Toyota GR86
 - [ ] Toyota Supra (Latest Gen)
 - [ ] W Motors Lykan Hypersport
 
-## KEEP RACING UNTIL THE SHUTDOWN!
+# KEEP RACING UNTIL THE SHUTDOWN!
